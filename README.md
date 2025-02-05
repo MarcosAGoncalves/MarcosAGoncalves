@@ -57,8 +57,8 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="200"  
+    style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=MarcosAGoncalves&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&count_private=true" 
   />
 <img 
