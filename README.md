@@ -57,14 +57,14 @@
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200"  
+    height="170"  
     style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=MarcosAGoncalves&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&count_private=true" 
   />
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="170" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAGoncalves&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
